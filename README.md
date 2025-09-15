@@ -12,7 +12,7 @@
 ---
 
 ### 🚀 About Me
-- 💻 Python Developer with experience in **Machine Learning, Web Development, and Data Analysis**  
+- 💻 Python Developer with **Machine Learning, Web Development, and Data Analysis**  
 - 🤖 Enthusiast in **AI, Deep Learning, and Analytics**  
 - 🌱 Currently learning **Advanced Machine Learning & Full-Stack Development**  
 - ⚡ Love solving **DSA problems** and building impactful projects  

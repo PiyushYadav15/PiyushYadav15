@@ -57,8 +57,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/Mental-Health-Tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Mental-Health-Tracker&theme=radical" />
+  <a href="https://github.com/PiyushYadav15/Student-Planner">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PiyushYadav15&repo=Student-Planner&theme=radical" />
   </a>
   <a href="https://github.com/YOUR_USERNAME/Shoe-Selling-Platform">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Shoe-Selling-Platform&theme=radical" />

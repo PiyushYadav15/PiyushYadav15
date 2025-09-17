@@ -51,8 +51,8 @@
   <a href="https://github.com/PiyushYadav15/AgriKart">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=PiyushYadav15&repo=AgriKart&theme=radical" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME/Crypto-Portfolio-Tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Crypto-Portfolio-Tracker&theme=radical" />
+  <a href="https://github.com/PiyushYadav15/Travel Easy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PiyushYadav15&repo=Travel Easy&theme=radical" />
   </a>
 </p>
 

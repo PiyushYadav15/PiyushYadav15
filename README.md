@@ -51,14 +51,14 @@
   <a href="https://github.com/PiyushYadav15/AgriKart">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=PiyushYadav15&repo=AgriKart&theme=radical" />
   </a>
-  <a href="https://github.com/PiyushYadav15/Travel-Easy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PiyushYadav15&repo=Travel-Easy&theme=radical" />
+  <a href="https://github.com/PiyushYadav15/TravelEasy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PiyushYadav15&repo=TravelEasy&theme=radical" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/PiyushYadav15/Student-Planner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PiyushYadav15&repo=Student-Planner&theme=radical" />
+  <a href="https://github.com/PiyushYadav15/StudentPlanner">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PiyushYadav15&repo=StudentPlanner&theme=radical" />
   </a>
   <a href="https://github.com/YOUR_USERNAME/Shoe-Selling-Platform">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Shoe-Selling-Platform&theme=radical" />

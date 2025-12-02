@@ -14,7 +14,7 @@
 ### 🚀 About Me
 - 💻 Python Developer with **Machine Learning, Web Development**  
 - 🤖 Enthusiast in **AI, Deep Learning, and Analytics**  
-- 🌱 Currently learning **Full-Stack Development**  
+- 🌱 Currently learning ** Spring Boot Full-Stack Development**  
 - ⚡ Love solving **DSA problems** and building impactful projects  
 
 ---

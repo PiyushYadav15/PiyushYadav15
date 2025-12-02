@@ -12,9 +12,9 @@
 ---
 
 ### 🚀 About Me
-- 💻 Python Developer with **Machine Learning, Web Development, and Data Analysis**  
+- 💻 Python Developer with **Machine Learning, Web Development**  
 - 🤖 Enthusiast in **AI, Deep Learning, and Analytics**  
-- 🌱 Currently learning **Advanced Machine Learning & Full-Stack Development**  
+- 🌱 Currently learning **Full-Stack Development**  
 - ⚡ Love solving **DSA problems** and building impactful projects  
 
 ---
@@ -32,7 +32,6 @@
   <!-- Frameworks -->
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
